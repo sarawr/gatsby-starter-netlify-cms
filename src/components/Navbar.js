@@ -15,6 +15,9 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-start">
+      <Link className="navbar-item" to="/work">
+          Work
+        </Link>
         <Link className="navbar-item" to="/about">
           About
         </Link>
@@ -23,16 +26,6 @@ const Navbar = () => (
         </Link>
       </div>
       <div className="navbar-end">
-        <a
-          className="navbar-item"
-          href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <span className="icon">
-            <img src={github} alt="Github" />
-          </span>
-        </a>
       </div>
     </div>
   </nav>
