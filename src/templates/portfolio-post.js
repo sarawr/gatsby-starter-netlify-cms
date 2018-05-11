@@ -25,7 +25,6 @@ export const PortfolioPostTemplate = ({
               </div>
              <Link to="/"><button className="modal-close is-large" aria-label="close"></button></Link>
             </div>
-
     </section>
   )
 }

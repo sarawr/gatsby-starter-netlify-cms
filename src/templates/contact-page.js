@@ -7,14 +7,15 @@ export const ContactPageTemplate = ({ title, content, contentComponent }) => {
 
   return (
     <section className="section section--gradient">
-      <div className="container">
+    <div className="container">
         <div className="columns">
-          <div className="column is-8 is-offset-1">
+          <div className="column is-8">
             <div className="section">
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h2>
               <PageContent className="content" content={content} />
+              <div className="map"></div>
             </div>
           </div>
         </div>
