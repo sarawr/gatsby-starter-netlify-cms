@@ -9,12 +9,13 @@ My work has also been used by clients such as Renault, KLM, Scania and Telia.
 
 ### What I offer
 
-Custom made Music Productions
-Music Mixing
-Sound Design
-Sound Mixing for TV, Radio, Web
-Sound engineering - Studio & On location Sound Editing
-Interactive Music and Sound Design for Games, VR&AR Orchestral arrangements
-Foley recordings
-Podcast recordings
+Custom made \
+Music Productions\
+Music Mixing\
+Sound Design\
+Sound Mixing for TV, Radio, Web\
+Sound engineering - Studio & On location Sound Editing\
+Interactive Music and Sound Design for Games, VR&AR Orchestral arrangements\
+Foley recordings\
+Podcast recordings\
 Instrument Sampling
