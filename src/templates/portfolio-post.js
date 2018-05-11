@@ -35,7 +35,7 @@ PortfolioPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
-  videoId: PropTypes.number,
+  videoId: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet),
 }
 
