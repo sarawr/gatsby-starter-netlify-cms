@@ -1,10 +1,10 @@
 import CMS from 'netlify-cms'
 
 import AboutPagePreview from './preview-templates/AboutPagePreview'
-import BlogPostPreview from './preview-templates/BlogPostPreview'
-import ProductPagePreview from './preview-templates/ProductPagePreview'
+import PortfolioPostPreview from './preview-templates/PortfolioPostPreview'
+import ProductPagePreview from './preview-templates/ContactPagePreview'
 
 CMS.registerPreviewStyle('/styles.css')
 CMS.registerPreviewTemplate('about', AboutPagePreview)
-CMS.registerPreviewTemplate('products', ProductPagePreview)
-CMS.registerPreviewTemplate('blog', BlogPostPreview)
+CMS.registerPreviewTemplate('contact', ContactPagePreview)
+CMS.registerPreviewTemplate('portfolio', PortfolioPostPreview)

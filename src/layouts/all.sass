@@ -1,27 +1,102 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 // Config vars
-$kaldi-red: #FD461E
-$kaldi-red-invert: #fff
+$hugo-blue: #789EAF
+$hugo-beige: #f9d6af
+$hugo-white: #f6f5f3
+$hugo-black: #4a4a4a
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+$primary: $hugo-blue
+$primary-invert: $hugo-beige
+
+html
+  background-color: $hugo-white!important
+
+a:hover
+  color: $hugo-blue!important
+
+a
+  color: $hugo-black!important
+
+.work-thumbnail:hover
+  border-left: 16px solid $hugo-blue
 
 .container
   display: flex
   flex-wrap: wrap
+  align-items: center
+  justify-content: center
+
+.navbar
+  margin-top: 24px
+  margin-left: 8vw
+  font-size: 18px
+  background-color: $hugo-white!important
+
+.work-item
+  margin: 0.8rem
 
 .work-thumbnail
   margin-bottom: 0
-  margin: 1.2rem
   width: 18vw
-  height: 14vw
+  height: 12vw
+  z-index: 90
   background-color: gray
   justify-content: left
   align-items: center
-  li
-    padding: 0 2rem 1rem 0
-    margin-bottom: 1.5rem
-    margin-top: 0
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat
+  background-size: cover
+
+.work-page
+  padding-top: 24px
+  text-align: center
+
+.modal-background
+  background-color: rgba(249,214,175, 0.86)!important
+
+.modal-close:before, .modal-close:after
+  background-color: $hugo-black!important
+
+.description 
+  font-size: 1rem
+  font-weight: 600
+  text-align: left
+
+.embed-video 
+  position: relative 
+  padding-bottom: 56.25% 
+  height: 0 
+  overflow: hidden 
+  max-width: 100%
+
+.modal-content
+  margin: 0!important
+
+.post-content p 
+  margin: 16px 8px
+
+.embed-video iframe,
+.embed-video object,
+.embed-video embed 
+  position: absolute
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
+
+@media screen and (min-width: 769px) 
+  .modal-content
+    width: 800px!important
+
+@media screen and (max-width: 900px) 
+  .work-thumbnail
+    width: 80vw
+    margin: 0 0 24px 0
+    height: 60vw
+      
+
 
 @import "~bulma"

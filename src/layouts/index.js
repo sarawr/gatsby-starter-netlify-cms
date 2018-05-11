@@ -6,7 +6,7 @@ import Navbar from '../components/Navbar'
 import './all.sass'
 
 const TemplateWrapper = ({ children }) => (
-  <div>
+  <div className="hugo-wrapper">
     <Helmet title="Hugo Lundgren" />
     <Navbar />
     <div>{children()}</div>

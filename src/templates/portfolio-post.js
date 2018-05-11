@@ -5,75 +5,66 @@ import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
 
-export const BlogPostTemplate = ({
+export const PortfolioPostTemplate = ({
   content,
   contentComponent,
   description,
-  tags,
   title,
+  videoId,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
-
   return (
     <section className="section">
       {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
+     <div className="modal is-active">
+        <div className="modal-background"></div>
+        <div className="modal-content">
+                <div className="embed-video"><iframe className="video-frame" frameborder="0" src={"https://player.vimeo.com/video/"+videoId} allowfullscreen></iframe></div>
+                <PostContent content={content} className="post-content" />  
               </div>
-            ) : null}
-          </div>
-        </div>
-      </div>
+             <Link to="/"><button className="modal-close is-large" aria-label="close"></button></Link>
+            </div>
+
     </section>
   )
 }
 
-BlogPostTemplate.propTypes = {
+PortfolioPostTemplate.propTypes = {
   content: PropTypes.string.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
+  videoId: PropTypes.number,
   helmet: PropTypes.instanceOf(Helmet),
 }
 
-const BlogPost = ({ data }) => {
+const PortfolioPost = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <BlogPostTemplate
+    <PortfolioPostTemplate
       content={post.html}
       contentComponent={HTMLContent}
       description={post.frontmatter.description}
-      helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
-      tags={post.frontmatter.tags}
+      helmet={<Helmet title={`${post.frontmatter.title} | Portfolio`} />}
       title={post.frontmatter.title}
+      videoId={post.frontmatter.videoId}
+      image={post.frontmatter.image}
     />
   )
 }
 
-BlogPost.propTypes = {
+PortfolioPost.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.object,
   }),
 }
 
-export default BlogPost
+export default PortfolioPost
 
 export const pageQuery = graphql`
-  query BlogPostByID($id: String!) {
+  query PortfolioPostByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
@@ -81,7 +72,8 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
-        tags
+        videoId
+        image
       }
     }
   }
