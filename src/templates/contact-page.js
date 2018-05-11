@@ -2,6 +2,9 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Content, { HTMLContent } from '../components/Content'
 
+import map from '../img/staticmap.png'
+
+
 export const ContactPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
@@ -15,7 +18,7 @@ export const ContactPageTemplate = ({ title, content, contentComponent }) => {
                 {title}
               </h2>
               <PageContent className="content" content={content} />
-              <div className="map"></div>
+              <div className="map" style={{ backgroundImage: `url(${map})` }}></div>
             </div>
           </div>
         </div>
