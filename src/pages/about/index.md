@@ -4,7 +4,7 @@ title: About Hugo
 ---
 ### I am is a music producer and sound designer
 
-I am is a music producer and sound designer from Sweden, with a bachelor’s degree in music and media production from the Royal College of Music in Stockholm. I work with music and sound for film, TV, games, commercials and theatre, and have worked with produc0ons seen on BBC, SVT, YLE, DR, Berlinale, Annecy Film Festival.
+I am is a music producer and sound designer from Sweden, with a bachelor’s degree in music and media production from the Royal College of Music in Stockholm. I work with music and sound for film, TV, games, commercials and theatre, and have worked with production seen on BBC, SVT, YLE, DR, Berlinale, Annecy Film Festival.
 My work has also been used by clients such as Renault, KLM, Scania and Telia.
 
 ### What I offer
