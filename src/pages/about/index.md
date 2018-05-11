@@ -1,5 +1,6 @@
 ---
-templateKey: about-page
+templateKey: 'about-page'
+path: /about
 title: About Hugo
 ---
 ### I am is a music producer and sound designer
