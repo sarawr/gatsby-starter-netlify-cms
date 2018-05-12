@@ -17,4 +17,6 @@ Sound engineering - Studio & On location \
 Sound Editing\
 Interactive Music and Sound Design for Games, VR&AR \
 Orchestral arrangements\
-Foley recordings Podcast recordings Instrument Sampling
+Foley recordings \
+Podcast recordings\
+Instrument Sampling
