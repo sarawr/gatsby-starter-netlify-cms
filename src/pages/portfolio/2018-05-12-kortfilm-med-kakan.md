@@ -1,7 +1,7 @@
 ---
 templateKey: portfolio-post
 title: Kortfilm med Kakan
-date: 2018-05-12T07:30:39.914Z
+date: 2017-04-01T12:00:39+02:00
 description: sound mix
 image: /img/kortfilm_med_kakan_front.jpeg
 videoId: '268074382'
