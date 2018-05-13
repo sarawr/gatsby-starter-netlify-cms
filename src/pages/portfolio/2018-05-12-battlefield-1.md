@@ -1,7 +1,7 @@
 ---
 templateKey: portfolio-post
 title: Battlefield 1
-date: 2018-05-11T22:41:07.133Z
+date: 2017-08-01T12:00:07+02:00
 description: sound engineering
 image: /img/battlefield_front.jpg
 videoId: '268065004'
