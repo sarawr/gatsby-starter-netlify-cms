@@ -1,7 +1,7 @@
 ---
 templateKey: portfolio-post
 title: Fasanjägarna
-date: 2018-05-16T17:43:36.796Z
+date: 2016-01-04T19:43:36+01:00
 description: musicprod
 image: /img/fasanjagarna_front_alt.jpg
 videoId: '268069184'
