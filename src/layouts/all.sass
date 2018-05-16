@@ -31,6 +31,9 @@ p
 .hide-mobile
   display: block
 
+.show-mobile
+ display: none!important
+
 .title 
   color: $hugo-blue!important
   font-weight: 800!important
@@ -176,15 +179,30 @@ p
   .modal-content
     width: 800px!important
 
-@media screen and (max-width: 900px) 
+@media screen and (max-width: 1026px) 
   .work-thumbnail
     width: 80vw
     margin: 0 0 24px 0
     height: 60vw
   .social-mobile 
     display: block
+  .social-mobile img
+    margin-left: 8px
+    width: 36px!important
   .hide-mobile
-    display: none
+    display: none!important
+  .header-title
+    font-size: 2rem!important
+  .show-mobile
+    display: block!important
+  .navbar-brand 
+    display: flex
+    flex-wrap: wrap
+    align-items: center!important
+    justify-content: space-between!important
+    padding-right: 16px
+  .section
+    padding: 1rem!important
 
 
 
