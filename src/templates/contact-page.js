@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Content, { HTMLContent } from '../components/Content'
+import Form from '../components/Form'
 
 import map from '../img/staticmap.png'
 import linkedin from '../img/linkedin.svg'
@@ -19,27 +20,7 @@ export const ContactPageTemplate = ({ title, content, contentComponent }) => {
                 {title}
               </h2>
               <div className="contact-info">
-              <div className="form">
-              <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
-                <p hidden>
-                    <label>
-                      Don’t fill this out: <input name="bot-field"/>
-                    </label>
-                  </p>
-                <div className="field"><p>
-                  <label>Name <input type="text" class="input" name="name" /></label>
-                </p></div>
-                <div className="field"><p>
-                  <label>Email <input type="email" class="input" name="email" /></label>
-                </p></div>
-                <div className="field"><p>
-                <label>Message: <textarea class="textarea" name="message" /></label>
-              </p></div>
-                <p>
-                  <button className="button is-link" type="submit">Send</button>
-                </p>
-              </form>
-              </div>
+              <Form />
               <PageContent className="content contact" content={content} />
 
               </div>
