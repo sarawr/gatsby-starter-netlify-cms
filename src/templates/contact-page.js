@@ -21,6 +21,11 @@ export const ContactPageTemplate = ({ title, content, contentComponent }) => {
               <div className="contact-info">
               <div className="form">
               <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+                <p hidden>
+                    <label>
+                      Don’t fill this out: <input name="bot-field"/>
+                    </label>
+                  </p>
                 <div className="field"><p>
                   <label>Name <input type="text" class="input" name="name" /></label>
                 </p></div>
