@@ -20,7 +20,7 @@ export const ContactPageTemplate = ({ title, content, contentComponent }) => {
               </h2>
               <div className="contact-info">
               <div className="form">
-              <form name="contact" method="POST" netlify>
+              <form name="contact" method="POST" data-netlify="true">
                 <div className="field"><p>
                   <label>Name <input type="text" class="input" name="name" /></label>
                 </p></div>
