@@ -6,9 +6,8 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <section className="section section--gradient">
-    <div className="container">
-        <div className="columns">
+    <section className="section">
+        <div className="columns page">
           <div className="column is-8">
             <div className="section">
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
@@ -18,7 +17,6 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
             </div>
           </div>
         </div>
-      </div>
     </section>
   )
 }

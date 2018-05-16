@@ -3,26 +3,30 @@ import PropTypes from 'prop-types'
 import Content, { HTMLContent } from '../components/Content'
 
 import map from '../img/staticmap.png'
+import linkedin from '../img/linkedin.svg'
+import imdb from '../img/imdb.svg'
 
 
 export const ContactPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
-    <section className="section section--gradient">
-    <div className="container">
-        <div className="columns">
+    <section className="section">
+        <div className="columns page">
           <div className="column is-8">
             <div className="section">
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h2>
-              <PageContent className="content" content={content} />
+              <PageContent className="content contact" content={content} />
               <div className="map" style={{ backgroundImage: `url(${map})` }}></div>
             </div>
           </div>
         </div>
-      </div>
+         <div className="social-mobile">
+          <a href="https://www.imdb.com/name/nm4323116/?ref_=nv_sr_1"><img src={imdb} style={{ width: '24px' }} /></a>
+          <a href="https://www.linkedin.com/in/hugo-lundgren-50baa6b2/"><img src={linkedin} style={{ width: '24px' }} /></a>
+        </div>
     </section>
   )
 }

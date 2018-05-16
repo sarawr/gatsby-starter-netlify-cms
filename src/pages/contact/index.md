@@ -2,10 +2,7 @@
 templateKey: contact-page
 title: Contact
 ---
-### Contact me at hugo@hugolundgren.se
 
-Or....
-
-### Find me
-
-\--map--
+hugo@hugolundgren.se\
++46 708107289\
+Gästrikegatan 9, 113 62 Stockholm

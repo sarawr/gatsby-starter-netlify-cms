@@ -23,7 +23,7 @@ const Navbar = () => (
           Contact
         </Link>
       </div>
-      <div className="navbar-end">
+      <div className="navbar-end hide-mobile">
                 <div className="navbar-item"><a href="https://www.imdb.com/name/nm4323116/?ref_=nv_sr_1"><img src={imdb} style={{ width: '24px' }} /></a></div>
           <div className="navbar-item"><a href="https://www.linkedin.com/in/hugo-lundgren-50baa6b2/"><img src={linkedin} style={{ width: '24px' }} /></a></div>
       </div>
