@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
-import PortfolioBox from '../components/portfoliobox'
+import PortfolioBox from '../components/PortfolioBox'
 
 export default class IndexPage extends React.Component {
 
@@ -10,6 +10,7 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
     return (
       <section className="section">
+      <h1 className="header-title"> Music production & Sound design</h1>
        <div className="columns">
           <div className="column is-12">
         <div className="section">
