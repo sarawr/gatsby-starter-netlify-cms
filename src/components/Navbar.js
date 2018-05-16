@@ -50,7 +50,7 @@ export default class Navbar extends React.Component {
       </div>
 
       {this.state.toggle ?
-      <div className="navbar-start">
+      <div className="navbar-start mobile-start">
       <Link onClick={this.handleClick} className="navbar-item" to="/">
           Work
         </Link>
