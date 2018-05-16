@@ -18,14 +18,29 @@ a:hover
 a
   color: $hugo-black!important
 
-.work-thumbnail:hover
-  border-left: 16px solid $hugo-blue
+.work-thumbnail-filter 
+  height: 100%
+  width: 100%
+  background: rgba(120,158,175, .96);
+  display: flex
+  flex-wrap: wrap
+  align-items: center
+  justify-content: center
+
+.work-page
+  display: flex
+  flex-wrap: wrap
+  align-items: center
+  justify-content: center
 
 .container
   display: flex
   flex-wrap: wrap
   align-items: center
   justify-content: center
+
+.work-wrapper 
+  z-index: 1000
 
 .navbar
   margin-top: 24px
@@ -88,13 +103,12 @@ a
 .modal-close:before, .modal-close:after
   background-color: $hugo-black!important
 
-.columns
-  width: 80%!important
-
 .description 
-  font-size: 1rem
-  font-weight: 600
-  text-align: left
+  font-size: 2rem
+  line-height: 2rem
+  font-weight: 800
+  text-align: center
+  color: $hugo-beige
 
 .embed-video 
   position: relative 
@@ -133,7 +147,7 @@ a
     width: 80vw
     margin: 0 0 24px 0
     height: 60vw
-      
+
 
 
 @import "~bulma"
