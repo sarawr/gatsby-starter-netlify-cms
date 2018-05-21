@@ -1,7 +1,7 @@
 ---
 templateKey: portfolio-post
 title: The Fencing Champion
-date: 2018-05-21T09:38:30.997Z
+date: 2016-03-31T11:38:30+02:00
 description: music prod
 image: /img/poster.jpg
 videoId: '268070819'
