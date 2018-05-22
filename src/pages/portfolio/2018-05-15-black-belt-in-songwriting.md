@@ -6,7 +6,7 @@ description: git
 image: /img/test.jpg
 videoId: '268067248'
 ---
-Black Belt in Songwriting - E Book Series (more info at [www.blackbeltsongwriting.com](www.blackbeltsongwriting.com))
+Black Belt in Songwriting - E book series (more info at [www.blackbeltsongwriting.com](www.blackbeltsongwriting.com))
 
 Guitar parts performed by me. 
 
