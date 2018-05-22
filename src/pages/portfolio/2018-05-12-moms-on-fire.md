@@ -6,12 +6,10 @@ description: sound design
 image: /img/moms_on_fire_front.jpg
 videoId: '268069625'
 ---
-Moms on Fire - award winning short film (Berlinale, Annec)
+Moms on Fire - award winning short film (Berlinale, Annecy Film Festival, SVT)
 
 Sound design, Foley
 
 (Short sample in the player above)
-
-
 
 ![null](/img/66_ifb_berlinaleshorts_comp2_bw.png)
