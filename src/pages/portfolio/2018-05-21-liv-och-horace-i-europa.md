@@ -6,7 +6,7 @@ description: sound D
 image: /img/front3.jpg
 videoId: '271099895'
 ---
-Liv och Horace i Europa -Tv series in six episodes (SVT 2016)
+Liv och Horace i Europa - TV series in six episodes (SVT)
 
 On location sound engineer, Sound Design, Foley, Sound Mix
 
