@@ -6,4 +6,8 @@ description: music
 image: /img/superhurrifront.jpg
 videoId: '268074162'
 ---
+Superhurri - documetary (YLE)
+
 Music
+
+(Short sample in the player above)
