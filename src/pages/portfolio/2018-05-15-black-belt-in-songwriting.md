@@ -1,11 +1,13 @@
 ---
 templateKey: portfolio-post
 title: Black Belt in Songwriting
-date: 2017-05-03T14:51:51+02:00
+date: 2017-05-03T12:51:51.000Z
 description: git
 image: /img/test.jpg
 videoId: '268067248'
 ---
-Black Belt in Songwriting - E Book Serries. 
+Black Belt in Songwriting - E Book Series (more info at [www.blackbeltsongwriting.com](www.blackbeltsongwriting.com))
 
-Guitar parts. Check out the book at (www.blackbeltsongwriting.com)
+Guitar parts performed by me. 
+
+(Short sample in the player above)
