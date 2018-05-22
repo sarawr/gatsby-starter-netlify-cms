@@ -12,8 +12,6 @@ Sound design, Foley
 
 (Short sample in the player above)
 
-![](/img/66_ifb_berlinaleshorts_comp2_bw.png)
 
-![](/img/audience award giff black.png)
 
-![](/img/teddyaward_logo_klassisch_300dpi.jpg)
+![null](/img/66_ifb_berlinaleshorts_comp2_bw.png)
