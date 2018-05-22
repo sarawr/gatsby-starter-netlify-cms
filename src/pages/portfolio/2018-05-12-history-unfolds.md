@@ -6,4 +6,8 @@ description: mix
 image: /img/history_unfolds_front5.jpg
 videoId: '268069230'
 ---
-Sound design, Sound mix for six web films
+History Unfolds - web films about an exhibition at the history museum in Stockholm
+
+Sound design, Sound mix
+
+Client: Alto Film
