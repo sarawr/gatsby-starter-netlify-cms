@@ -9,3 +9,5 @@ videoId: '268069184'
 Fasanjägarna - Thriller
 
 Mixdown Engineer, Instrument sampling editor.
+
+(See the trailer in the video above)
