@@ -6,7 +6,7 @@ description: music prod
 image: /img/poster.jpg
 videoId: '268070819'
 ---
-The Fencing Champion - Documentary, Short
+The Fencing Champion - documentary, short
 
 Assistant to composer Uno Helmersson.
 
