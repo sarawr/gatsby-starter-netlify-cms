@@ -1,11 +1,13 @@
 ---
 templateKey: portfolio-post
 title: Moms on Fire
-date: 2017-05-03T00:00:39+02:00
+date: 2017-05-02T22:00:39.000Z
 description: sound design
 image: /img/moms_on_fire_front.jpg
 videoId: '268069625'
 ---
-Sound design
+Moms on Fire - award winning short film (SVT)
 
-Foley
+Sound design, Foley
+
+(Short sample in the player above)
