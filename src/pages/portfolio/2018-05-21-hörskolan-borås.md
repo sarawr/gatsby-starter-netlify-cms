@@ -6,7 +6,7 @@ description: sound
 image: /img/hogskolan_boras_front2.png
 videoId: '268069435'
 ---
-Högskolan i Borås - Web commercial
+Högskolan i Borås - web commercial
 
 Voice direct & record
 
