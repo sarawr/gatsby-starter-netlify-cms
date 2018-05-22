@@ -6,8 +6,8 @@ description: musicprod
 image: /img/fasanjagarna_front_alt.jpg
 videoId: '268069184'
 ---
-Fasanjägarna - Thriller
+Fasanjägarna - thriller
 
-Mixdown Engineer, Instrument sampling editor.
+Mixdown engineer, Instrument sampling editor.
 
 (Trailer in the player above)
