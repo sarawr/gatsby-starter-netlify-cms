@@ -6,7 +6,7 @@ description: music
 image: /img/sandviken_pure_power_front.jpg
 videoId: '268070093'
 ---
-Sandviken Pure Oower - Web film
+Sandviken Pure Power - Web film
 
 Music
 
