@@ -17,7 +17,6 @@ export default class IndexPage extends React.Component {
         <div className="work-page">
           {posts
             .filter(post => post.node.frontmatter.templateKey === 'portfolio-post')
-            .sort()
             .map(({ node: post }) => (
               <PortfolioBox link = {post.fields.slug}
                             key = {post.id}
