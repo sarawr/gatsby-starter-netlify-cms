@@ -6,7 +6,7 @@ description: sound design
 image: /img/front_snilleosmak.jpg
 videoId: '268070222'
 ---
-Snille och Smak - En film om Svenska Akademien. (SVT)
+Snille och Smak - En film om Svenska Akademien (SVT)
 
 Sound design, Foley, Mix
 
