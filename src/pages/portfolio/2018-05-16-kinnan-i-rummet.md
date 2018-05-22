@@ -6,7 +6,7 @@ description: music
 image: /img/kvinnan_i_rummet_front_alt.jpg
 videoId: '268069500'
 ---
-Kvinnan i rummet - Full length thriller
+Kvinnan i rummet - thriller
 
 Mixdown engineer, Instrument sampling editor
 
