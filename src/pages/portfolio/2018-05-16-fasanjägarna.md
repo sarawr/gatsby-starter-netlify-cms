@@ -1,11 +1,11 @@
 ---
 templateKey: portfolio-post
 title: Fasanjägarna
-date: 2016-01-04T19:43:36+01:00
+date: 2016-01-04T18:43:36.000Z
 description: musicprod
 image: /img/fasanjagarna_front_alt.jpg
 videoId: '268069184'
 ---
-Music production Team
+Fasanjägarna - Thriller
 
-Mixdown Engineer, Instrument sampling editor
+Mixdown Engineer, Instrument sampling editor.
