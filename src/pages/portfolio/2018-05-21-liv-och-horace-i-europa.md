@@ -11,3 +11,5 @@ Liv och Horace i Europa -Tv series in six episodes (SVT 2016)
 On location sound engineer, Sound Design, Foley, Sound Mix
 
 Client: ABHL
+
+(Watch a short sample in the player above)
