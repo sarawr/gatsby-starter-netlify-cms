@@ -1,13 +1,11 @@
 ---
 templateKey: portfolio-post
 title: När Mormor tog fotografierna ut på en promenad
-date: 2017-07-06T12:01:18+02:00
+date: 2017-07-06T10:01:18.000Z
 description: sound Design
 image: /img/mommo_front.jpeg
 videoId: '268092533'
 ---
-SVT 2016
+När mormor tog fotografierna ut på en promenad - Documentary. (SVT 2016)
 
-Sound Design & Sound Mix
-
-Client: ABHL
+Music, Sound Design & Sound Mix
