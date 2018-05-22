@@ -12,4 +12,4 @@ On location sound engineer, Sound Design, Foley, Sound Mix
 
 Client: ABHL
 
-(Watch a short sample in the player above)
+(Short sample in the player above)
