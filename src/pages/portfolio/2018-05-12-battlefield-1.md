@@ -6,4 +6,8 @@ description: sound engineering
 image: /img/battlefield_front2.jpg
 videoId: '268065004'
 ---
-Drum recording
+Battlefield 1 - award winning video game (PC, PS4, Xbox)
+
+Drum recording sound engineer & editor.
+
+(Trailer in the player above)
