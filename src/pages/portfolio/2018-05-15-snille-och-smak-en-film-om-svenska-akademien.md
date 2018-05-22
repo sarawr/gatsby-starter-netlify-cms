@@ -8,6 +8,6 @@ videoId: '268070222'
 ---
 Snille och Smak - En film om Svenska Akademien (SVT)
 
-Sound design, Foley, Mix
+Sound design, Foley, Sound mix
 
 (Short Sample in the player above)
