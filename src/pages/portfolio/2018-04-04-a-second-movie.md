@@ -1,13 +1,15 @@
 ---
 templateKey: portfolio-post
 title: SOS Alarm
-date: 2017-11-01T00:00:00+01:00
+date: 2017-10-31T23:00:00.000Z
 description: |-
   Sound Mix for one episode
   Client: Underton
 image: /img/sos2.jpg
 videoId: '268244144'
 ---
-Sound Mix for one episode
+SOS Alarm - web films
+
+Sound mix for one episode
 
 Client: Underton

@@ -6,8 +6,8 @@ description: Producer & editor 2018
 image: /img/svffront.jpg
 videoId: '268070800'
 ---
-Studieförbundet Vuxenskolan
+Studieförbundet Vuxenskolan - web film
 
-Sound Design, Sound Mix
+Sound design, Sound mix, Voice direct & record
 
 Client: Online Voices

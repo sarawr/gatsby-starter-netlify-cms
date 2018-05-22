@@ -1,13 +1,15 @@
 ---
 templateKey: portfolio-post
 title: Kortfilm med Kakan
-date: 2017-04-01T12:00:39+02:00
+date: 2017-04-01T10:00:39.000Z
 description: sound mix
-image: /img/kortfilm_med_kakan_front.jpeg
+image: /img/kortfilm_med_kakan_front2.jpeg
 videoId: '268074382'
 ---
-Sound engineer on location
+Kortfilm med Kakan - TV show (SVT)
 
-Sound design, Sound mix
+Sound engineer on location, Sound design, Sound mix
 
-Cient: ABHL
+Client: ABHL
+
+(Short sample in the player above)

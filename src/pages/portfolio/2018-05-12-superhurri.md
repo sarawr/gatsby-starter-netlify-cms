@@ -1,9 +1,13 @@
 ---
 templateKey: portfolio-post
 title: Superhurri
-date: 2017-01-01T00:00:00+01:00
+date: 2016-12-31T23:00:00.000Z
 description: music
-image: /img/superhurri-placeholder3-1024x640.jpg
+image: /img/superhurrifront.jpg
 videoId: '268074162'
 ---
+Superhurri - documetary (YLE)
+
 Music
+
+(Short sample in the player above)
