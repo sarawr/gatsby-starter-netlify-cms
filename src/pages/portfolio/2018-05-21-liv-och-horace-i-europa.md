@@ -6,7 +6,7 @@ description: sound D
 image: /img/front3.jpg
 videoId: '271099895'
 ---
-Tv serries in six episodes brodcasted on SVT in 2016
+Liv och Horace i Europa -Tv series in six episodes (SVT 2016)
 
 On location sound engineer, Sound Design, Foley, Sound Mix
 
