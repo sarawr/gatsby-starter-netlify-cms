@@ -8,6 +8,6 @@ videoId: '268092533'
 ---
 När mormor tog fotografierna ut på en promenad - documentary (SVT)
 
-Music, Sound Design & Sound Mix
+Music, Sound design & Sound mix
 
 (Short sample in the player above)
