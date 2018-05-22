@@ -10,4 +10,6 @@ Kortfilm med Kakan - TV show (SVT)
 
 Sound engineer on location, Sound design, Sound mix
 
-Cient: ABHL
+Client: ABHL
+
+(Short sample in the player above)
