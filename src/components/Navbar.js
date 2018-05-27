@@ -4,6 +4,7 @@ import Link from 'gatsby-link'
 import linkedin from '../img/linkedin.svg'
 import imdb from '../img/imdb.svg'
 import menu from '../img/menu.svg'
+import logo from '../img/HugoLogga.png'
 
 export default class Navbar extends React.Component {
   constructor() {
@@ -20,11 +21,11 @@ export default class Navbar extends React.Component {
   }
   render() {
     return(
-  <nav className="navbar is-transparent">
+  <nav className="navbar is-transparent is-fixed-top">
     <div className="container hide-mobile">
-      <div className="navbar-brand">
-        <Link to="/" className="navbar-item">
-          <strong>Hugo Lundgren</strong>
+      <div className="navbar-brand" >
+        <Link to="/" className="navbar-item" >
+          <img src={logo} style={{ height: '120px', paddingRight: '24px' }} />
         </Link>
       </div>
       <div className="navbar-start">

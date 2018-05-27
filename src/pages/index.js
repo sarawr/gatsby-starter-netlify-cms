@@ -10,7 +10,6 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
     return (
       <section className="section">
-      <h1 className="header-title"> Music production & Sound design</h1>
        <div className="columns">
           <div className="column is-12">
         <div className="section">
@@ -21,7 +20,8 @@ export default class IndexPage extends React.Component {
               <PortfolioBox link = {post.fields.slug}
                             key = {post.id}
                             backgroundImage = {post.frontmatter.image}
-                            description = {post.frontmatter.title} />
+                            description = {post.frontmatter.title}
+                            contentDescription={post.frontmatter.description} />
 
 
             ))}
@@ -54,6 +54,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
             templateKey
+            description
             image
             date(formatString: "MMMM DD, YYYY")
           }

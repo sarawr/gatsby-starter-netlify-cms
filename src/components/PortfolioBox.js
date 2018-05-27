@@ -15,11 +15,17 @@ export default class PortfolioBox extends React.Component {
       hover: !this.state.hover,
     })
 	}
+  stringLenght(){
+    if (this.props.description.length > 32) {
+      return this.props.description.slice(0,32) + "..."
+    }
+    return this.props.description
+  }
   render() {
     return (
       <div className="work-item-wrapper"
            onMouseEnter={this.onMouseOver}
-            onMouseLeave={this.onMouseOver}>
+           onMouseLeave={this.onMouseOver}>
      <div className="work-item">
         <Link to={this.props.link} className="image-hover">
 	          <div
@@ -28,14 +34,14 @@ export default class PortfolioBox extends React.Component {
 	            style={{ backgroundImage: `url(${this.props.backgroundImage})` }}
 	          >
              {this.state.hover ?
-            <div className="work-thumbnail-filter"> <p className="description">
-                {this.props.description}
-          </p></div> : ''}
-
-
+            <div className="work-thumbnail-filter"> <span><p className="description">
+                {this.props.description}</p>
+                <p className="information">{this.props.contentDescription}</p></span>
+          </div> : <div></div>}
           </div>
         </Link>
      </div>
+     <p className="movie-title">{this.stringLenght()}</p>
      </div>
     )
   }

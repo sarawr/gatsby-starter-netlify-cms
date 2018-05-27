@@ -1,13 +1,15 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 // Config vars
-$hugo-blue: #789EAF
-$hugo-beige: #f9d6af
+$hugo-blue: #37618a
+$hugo-beige: #ffffff
 $hugo-white: #f6f5f3
 $hugo-black: #4a4a4a
 
 $primary: $hugo-blue
 $primary-invert: $hugo-beige
+$family-primary: "Avenir", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+
 
 html
   background-color: $hugo-white!important
@@ -21,8 +23,12 @@ a
 h3 
   color: $hugo-blue!important
 
+
 p
   padding-left: 16px!important
+
+.has-text-weight-bold 
+  font-weight: 200 !important
 
 .form
   padding-bottom: 24px
@@ -58,14 +64,12 @@ p
 
 .title 
   color: $hugo-blue!important
-  font-weight: 800!important
-  font-style: italic
+  font-weight: 400!important
 
 .header-title 
   font-size: 2.8rem!important
   line-height: 2.8rem
-  font-weight: 800!important
-  font-style: italic
+  font-weight: 600!important
   padding: 4vw 0px
   text-align: center
   color: $hugo-blue
@@ -79,7 +83,7 @@ p
 .work-thumbnail-filter 
   height: 100%
   width: 100%
-  background: rgba(120,158,175, .96);
+  background: rgba(55,97,138,0.96)
   display: flex
   flex-wrap: wrap
   align-items: center
@@ -101,7 +105,7 @@ p
   z-index: 1000
 
 .navbar
-  margin-top: 24px
+  padding-top: 8px
   margin-left: 8vw
   font-size: 18px
   background-color: $hugo-white!important
@@ -113,8 +117,17 @@ p
   padding-left: 4px
   padding-right: 4px
 
+.section
+  margin-top: 24px
+
 .footer 
+  padding-top: 0!important
   background-color: $hugo-white!important
+
+.hugo-footer
+  display: flex
+  align-items: center
+  justify-content: center
 
 .footer-brand
   display: flex
@@ -123,6 +136,9 @@ p
   justify-content: flex-start
   margin-top: 4vw 
   color: $hugo-black
+
+.footer-brand .column 
+  padding-right: 16px
 
 .footer-item
   margin-left: 8px
@@ -142,10 +158,7 @@ p
   width: 18vw
   height: 12vw
   z-index: 90
-  background-color: gray
   justify-content: left
-  align-items: center
-  display: flex
   align-items: center
   justify-content: center
   background-repeat: no-repeat
@@ -156,15 +169,29 @@ p
   text-align: center
 
 .modal-background
-  background-color: rgba(249,214,175, 0.86)!important
+  background-color: rgba(55,97,138,0.16)!important
 
 .modal-close:before, .modal-close:after
   background-color: $hugo-black!important
 
+.movie-title
+  font-size: 0.7rem
+  text-align: left
+  margin-top: -8px
+
 .description 
-  font-size: 2rem
-  line-height: 2rem
-  font-weight: 800
+  font-size: 1.4rem
+  line-height: 1.8rem
+  font-weight: 400
+  padding-left: 0!important
+  text-align: center
+  color: $hugo-beige
+
+.information 
+  font-size: 1rem
+  line-height: 1rem
+  padding-top: 16px
+  font-weight: 400
   padding-left: 0!important
   text-align: center
   color: $hugo-beige
@@ -187,6 +214,12 @@ p
 
 .post-content p 
   margin: 16px 8px
+
+form 
+  width: 80%!important
+
+.footer-brand
+  border-top: 1px solid $hugo-black
 
 .embed-video iframe,
 .embed-video object,
@@ -225,8 +258,6 @@ p
     padding-right: 16px
   .section
     padding: 1rem!important
-  .form
-    display: none
 
 
 @import "~bulma"
