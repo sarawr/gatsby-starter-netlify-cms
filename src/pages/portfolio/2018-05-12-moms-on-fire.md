@@ -8,8 +8,8 @@ videoId: '268069625'
 ---
 Moms on Fire - award winning short film (Berlinale, Annecy Film Festival, SVT)
 
-Sound design, Foley
+Sound design, Foley, TV mix
 
-(Short sample in the player above)
+_(Short sample in the player above)_
 
 ![null](/img/priser2.png)
