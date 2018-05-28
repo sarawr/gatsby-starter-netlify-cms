@@ -1,8 +1,8 @@
 ---
 templateKey: portfolio-post
-title: Liv och Horace i Europa
+title: LIV OCH HORACE I EUROPA
 date: 2018-05-21T14:39:21.276Z
-description: sound D
+description: 'Sound Engineer, Sound Design, Sound Mix'
 image: /img/front3.jpg
 videoId: '271099895'
 ---
