@@ -12,8 +12,8 @@ My work has also been used by commercial clients such as Renault, KLM, Scania an
 – Sound Mixing for TV, Radio, Web\
 – Audio programming for Games, VR & AR \
 – Sound Engineering, in Studio & on location\
-– Podcast production\
 – Orchestral arrangements\
+– Podcast production\
 – Foley \
 – Sound Editing\
 – Instrument Sampling
