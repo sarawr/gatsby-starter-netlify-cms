@@ -2,7 +2,7 @@
 templateKey: portfolio-post
 title: History Unfolds
 date: 2017-10-31T23:00:05.000Z
-description: mix
+description: 'Sound Design, Sound Mix'
 image: /img/history_unfolds_front5.jpg
 videoId: '268069230'
 ---
