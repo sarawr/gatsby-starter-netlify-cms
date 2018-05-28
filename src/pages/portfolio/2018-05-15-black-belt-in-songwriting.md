@@ -2,7 +2,7 @@
 templateKey: portfolio-post
 title: Black Belt in Songwriting
 date: 2017-05-03T12:51:51.000Z
-description: Guitar player
+description: Music Production
 image: /img/test.jpg
 videoId: '268067248'
 ---
