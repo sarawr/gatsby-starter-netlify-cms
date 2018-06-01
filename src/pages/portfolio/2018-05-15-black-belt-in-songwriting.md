@@ -1,7 +1,7 @@
 ---
 templateKey: portfolio-post
 title: Black Belt in Songwriting
-date: 2018-01-09T14:51:51+01:00
+date: 2018-07-09T14:51:51+02:00
 description: Music Production
 image: /img/test.jpg
 videoId: '268067248'
