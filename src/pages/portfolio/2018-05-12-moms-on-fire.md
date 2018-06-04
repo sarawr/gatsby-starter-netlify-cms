@@ -1,15 +1,15 @@
 ---
 templateKey: portfolio-post
 title: Moms on Fire
-date: 2017-05-02T22:00:39.000Z
-description: sound design
+date: 2017-11-02T00:00:39+01:00
+description: 'Sound Design, Foley, TV mix'
 image: /img/moms_on_fire_front.jpg
 videoId: '268069625'
 ---
 Moms on Fire - award winning short film (Berlinale, Annecy Film Festival, SVT)
 
-Sound design, Foley
+Sound design, Foley, TV mix
 
-(Short sample in the player above)
+_(Short sample in the player above)_
 
-![null](/img/66_ifb_berlinaleshorts_comp2_bw.png)
+![null](/img/priser2.png)

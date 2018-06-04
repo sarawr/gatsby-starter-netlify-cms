@@ -2,7 +2,7 @@
 templateKey: portfolio-post
 title: Billerudkorsnäs
 date: 2016-09-02T19:57:32.000Z
-description: music
+description: Music
 image: /img/billerudkorsnas_front2.jpg
 videoId: '268040390'
 ---
