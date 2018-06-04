@@ -14,7 +14,7 @@ export const ContactPageTemplate = ({ title, content, contentComponent }) => {
   return (
     <section className="section">
         <div className="columns page">
-          <div className="column is-8">
+          <div className="column is-5">
             <div className="section">
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
@@ -23,14 +23,11 @@ export const ContactPageTemplate = ({ title, content, contentComponent }) => {
               <Form />
               <PageContent className="content contact" content={content} />
               </div>
-              <iframe className="hide-mobile" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326.7085286621664!2d18.037115285266104!3d59.34118398157301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d7a6bb45a65%3A0x72278647da323ea6!2sG%C3%A4strikegatan+9%2C+113+62+Stockholm!5e0!3m2!1sen!2sse!4v1527454291455" width="700" height="300" frameborder="0" allowfullscreen></iframe>
             </div>
           </div>
-        </div>
-
-         <div className="social-mobile">
-          <a href="https://www.imdb.com/name/nm4323116/?ref_=nv_sr_1"><img src={imdb} style={{ width: '24px' }} /></a>
-          <a href="https://www.linkedin.com/in/hugo-lundgren-50baa6b2/"><img src={linkedin} style={{ width: '24px' }} /></a>
+          <div className="column is-4">
+            <iframe className="hide-mobile" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326.7085286621664!2d18.037115285266104!3d59.34118398157301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d7a6bb45a65%3A0x72278647da323ea6!2sG%C3%A4strikegatan+9%2C+113+62+Stockholm!5e0!3m2!1sen!2sse!4v1527454291455" width="320" height="500" frameborder="0" allowfullscreen></iframe>
+          </div>
         </div>
     </section>
   )

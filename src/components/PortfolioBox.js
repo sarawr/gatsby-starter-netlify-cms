@@ -34,8 +34,8 @@ export default class PortfolioBox extends React.Component {
 	            style={{ backgroundImage: `url(${this.props.backgroundImage})` }}
 	          >
              {this.state.hover ?
-            <div className="work-thumbnail-filter"> <span><p className="description">
-                {this.props.description}</p>
+            <div className="work-thumbnail-filter"> <span className="inner-box"><p className="description">
+                {this.props.description.toUpperCase()}</p>
                 <p className="information">{this.props.contentDescription}</p></span>
           </div> : <div></div>}
           </div>
