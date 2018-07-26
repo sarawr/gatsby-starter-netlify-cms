@@ -26,7 +26,7 @@ export const ContactPageTemplate = ({ title, content, contentComponent }) => {
             </div>
           </div>
           <div className="column is-4">
-            <iframe className="hide-mobile" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326.7085286621664!2d18.037115285266104!3d59.34118398157301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d7a6bb45a65%3A0x72278647da323ea6!2sG%C3%A4strikegatan+9%2C+113+62+Stockholm!5e0!3m2!1sen!2sse!4v1527454291455" width="320" height="500" frameborder="0" allowfullscreen></iframe>
+            <iframe className="hide-mobile" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326.7085286621664!2d18.037115285266104!3d59.34118398157301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d7a6bb45a65%3A0x72278647da323ea6!2sG%C3%A4strikegatan+9%2C+113+62+Stockholm!5e0!3m2!1sen!2sse!4v1527454291455&zoom=15" width="380" height="380" frameborder="0" allowfullscreen></iframe>
           </div>
         </div>
     </section>
