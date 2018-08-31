@@ -3,7 +3,12 @@ import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import PortfolioBox from '../components/PortfolioBox'
 
+let scrollY = 0
+
 export default class IndexPage extends React.Component {
+  componentDidMount() {
+    window.setTimeout(() => window.scrollTo(0, scrollY), 0)
+  }
 
   render() {
     const { data } = this.props
@@ -13,7 +18,9 @@ export default class IndexPage extends React.Component {
        <div className="columns">
           <div className="column is-12">
         <div className="section">
-        <div className="work-page">
+        <div className="work-page" onClick={() => {
+          scrollY = window.scrollY
+        }}>
           {posts
             .filter(post => post.node.frontmatter.templateKey === 'portfolio-post')
             .map(({ node: post }) => (
@@ -22,8 +29,6 @@ export default class IndexPage extends React.Component {
                             backgroundImage = {post.frontmatter.image}
                             description = {post.frontmatter.title}
                             contentDescription={post.frontmatter.description} />
-
-
             ))}
           </div>
            </div></div>
