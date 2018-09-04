@@ -69,6 +69,7 @@ export default class Form extends React.Component {
             </label>
           </p>
           </div>
+          <div data-netlify-recaptcha></div>
           <p>
             <button className="button is-link" type="submit">Send</button>
           </p>
