@@ -1,7 +1,7 @@
 ---
 templateKey: portfolio-post
 title: Studieförbundet Vuxenskolan
-date: 2017-01-31T23:00:00.000Z
+date: 2017-12-27T00:00:00+01:00
 description: 'Sound Design, Sound Engineer, Voice Directing'
 image: /img/svffront.jpg
 videoId: '268070800'
