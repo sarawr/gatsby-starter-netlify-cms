@@ -1,5 +1,5 @@
 ---
 templateKey: contact-page
-title: Contact Hugo
+title: Contact me
 ---
 .
