@@ -2,6 +2,6 @@
 templateKey: contact-page
 title: Contact Hugo
 ---
-Do you need great sounding audio? 
-
-Drop me a line in the form, and tell me about your project.
+Phone: +4670 810 72 89\
+Skype: hugo.lundgren1\
+Instagram: huglun
