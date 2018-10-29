@@ -1,10 +1,10 @@
 ---
 templateKey: about-page
-title: Music + Sound
+title: Music and Sound
 ---
-I offer music and sound production services for film, TV, radio, games, theatre, commercials and podcasts. All the way from recording to final master through all the steps of audio post production. My sound studio is located in Stockholm, Sweden, and I've worked in the business since 2013.\
+I offer music and sound production services for film, TV, radio, games, theatre, commercials and podcasts. All the way from recording to audio post production. My sound studio is located in Stockholm, Sweden, and I've worked in the business since 2013.\
 In the past I've been fortunate enough to work with productions seen on BBC, Berlinale, Annecy Film Festival and SVT. My work has also been used by commercial clients such as Renault, KLM, Scania and Telia. \
-I have a bachelor’s degree in music and media production from the Royal College of Music in Stockholm and I'm Wwise certified at SAE Institute Stockholm.
+I have a bachelor’s degree in music and media production from the Royal College of Music in Stockholm.
 
 ### The Services:
 
