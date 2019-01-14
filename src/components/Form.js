@@ -49,7 +49,7 @@ export default class Form extends React.Component {
           <p>
             <label>
               Your name:<br />
-            <input type="text" class="input" name="name" onChange={this.handleChange}/>
+            <input type="text" className="input" name="name" onChange={this.handleChange}/>
             </label>
           </p>
           </div>
@@ -57,7 +57,7 @@ export default class Form extends React.Component {
           <p>
             <label>
               Your email:<br />
-              <input type="email" class="input" name="email" onChange={this.handleChange}/>
+              <input type="email" className="input" name="email" onChange={this.handleChange}/>
             </label>
           </p>
           </div>
@@ -65,7 +65,7 @@ export default class Form extends React.Component {
           <p>
             <label>
               Message:<br />
-              <textarea name="message" class="textarea" onChange={this.handleChange}/>
+              <textarea name="message" className="textarea" onChange={this.handleChange}/>
             </label>
           </p>
           </div>

@@ -17,7 +17,12 @@ export default class IndexPage extends React.Component {
       <section className="section">
        <div className="columns">
           <div className="column is-12">
+           <div className="index-header">
+            <h1>Music and Sound for visual media</h1>
+            <h2>Music composing | Sound design | Sound Mix | Audio programming</h2>
+          </div>
         <div className="section">
+        <h2 className="wide-headline">Featured work:</h2>
         <div className="work-page" onClick={() => {
           scrollY = window.scrollY
         }}>

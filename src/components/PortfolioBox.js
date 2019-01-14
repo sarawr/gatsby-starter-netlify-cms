@@ -2,7 +2,6 @@ import React from 'react'
 import Link from 'gatsby-link'
 import PropTypes from 'prop-types'
 
-console.log('when does this run?')
 export default class PortfolioBox extends React.Component {
 	constructor() {
     super()
