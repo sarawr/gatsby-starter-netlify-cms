@@ -18,7 +18,7 @@ export default class IndexPage extends React.Component {
        <div className="columns">
           <div className="column is-12">
            <div className="index-header">
-            <h1>Music and Sound for visual media</h1>
+            <h1>Music & Sound for Visual Media</h1>
             <h2>Music composing | Sound design | Sound Mix | Audio programming</h2>
           </div>
         <div className="section">
