@@ -6,10 +6,12 @@ description: 'Sound Design, Sound Mix'
 image: /img/history_unfolds_front5.jpg
 videoId: '268069230'
 ---
-History Unfolds - web films about an exhibition at the history museum in Stockholm
+**History Unfolds**
 
-Sound design, Sound mix
+The Swedish History Museum has invited artists to create new artwork inspired by its collections and research. Existing artworks by Swedish and international artists will also be shown in the exhibitions at the museum.
 
-Client: Alto Film
+Sound design & Sound mix.
 
-(Short sample in the player above)
+Film production by Alto Film.
+
+_(Short sample in the player above)_
