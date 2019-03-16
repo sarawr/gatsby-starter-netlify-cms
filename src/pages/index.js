@@ -1,11 +1,15 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { StaticQuery, graphql } from "gatsby"
 import PropTypes from 'prop-types'
 
 import PortfolioBox from '../components/PortfolioBox'
 import Layout from "../components/layout"
 
+import './index.sass'
+
 const IndexPage = () => {
+  const [category, setCategory ] = useState('')
+  console.log('cat', category == '')
   return (
     <StaticQuery
       query={graphql`
@@ -23,6 +27,7 @@ const IndexPage = () => {
                   templateKey
                   description
                   image
+                  category
                   date(formatString: "MMMM DD, YYYY")
                 }
               }
@@ -42,10 +47,21 @@ const IndexPage = () => {
                   <h2>Music composing | Sound design | Sound Mix | Audio programming</h2>
                 </div>
                 <div className="section">
-                  <h2 className="wide-headline">Featured work:</h2>
+                  <h2 className="wide-headline">Featured work</h2>
+                  {/*TODO: Change when categories are set.<h2 className="wide-headline">
+                    <span>Categories: </span>
+                    <span onClick={() => setCategory('')} className="category-title">All</span>
+                    <span> | </span>
+                    <span onClick={() => setCategory('sound')} className="category-title">Sound</span>
+                    <span> | </span>
+                    <span onClick={() => setCategory('music')} className="category-title">Music</span>
+                    <span> | </span>
+                    <span onClick={() => setCategory('interaction')} className="category-title">Interaction </span>
+                  </h2>*/}
                   <div className="work-page">
                     {posts
                       .filter(post => post.node.frontmatter.templateKey === 'portfolio-post')
+                      .filter(post => category == '' ? true : post.node.frontmatter.category === category)
                       .map(({ node: post }) => (
                         <PortfolioBox link={post.fields.slug}
                           key={post.id}
