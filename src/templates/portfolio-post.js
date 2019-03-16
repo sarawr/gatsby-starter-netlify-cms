@@ -12,6 +12,7 @@ export const PortfolioPostTemplate = ({
   title,
   videoId,
   helmet,
+  fromIndex
 }) => {
   const PostContent = contentComponent || Content
   return (
@@ -23,7 +24,9 @@ export const PortfolioPostTemplate = ({
                 <div className="embed-video"><iframe className="video-frame" frameborder="0" src={"https://player.vimeo.com/video/"+videoId} allowfullscreen></iframe></div>
                 <PostContent content={content} className="post-content" />  
               </div>
-             <Link to="/"><button className="modal-close is-large" aria-label="close"></button></Link>
+              <button onClick={() => {
+                window.location.hash === '#index' ? window.history.back() : window.location = '/'
+              }} className="modal-close is-large" aria-label="close"></button>
             </div>
     </section>
   )

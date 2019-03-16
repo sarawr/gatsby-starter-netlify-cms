@@ -34,6 +34,7 @@ const IndexPage = () => {
       `}
       render={data => {
         const { edges: posts } = data.allMarkdownRemark
+        
         return <Layout>
           <section className="section">
             <div className="columns">
@@ -44,14 +45,13 @@ const IndexPage = () => {
                 </div>
                 <div className="section">
                   <h2 className="wide-headline">Featured work:</h2>
-                  <div className="work-page" onClick={() => {
-                    scrollY = window.scrollY
-                  }}>
+                  <div className="work-page">
                     {posts
                       .filter(post => post.node.frontmatter.templateKey === 'portfolio-post')
                       .map(({ node: post }) => (
                         <PortfolioBox link={post.fields.slug}
                           key={post.id}
+                          fromIndex
                           backgroundImage={post.frontmatter.image}
                           description={post.frontmatter.title}
                           contentDescription={post.frontmatter.description} />

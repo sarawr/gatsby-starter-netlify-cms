@@ -27,7 +27,7 @@ export default class PortfolioBox extends React.Component {
            onMouseEnter={this.onMouseOver}
            onMouseLeave={this.onMouseOver}>
      <div className="work-item">
-        <Link to={this.props.link} className="image-hover">
+        <Link to={`${this.props.link}${this.props.fromIndex ? '#index' : null}`} className="image-hover">
 	          <div
 	            className= "work-thumbnail"
 	            key={this.props.key}
