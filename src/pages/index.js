@@ -5,8 +5,6 @@ import PropTypes from 'prop-types'
 import PortfolioBox from '../components/PortfolioBox'
 import Layout from "../components/layout"
 
-let scrollY = 0
-
 const IndexPage = () => {
   return (
     <StaticQuery

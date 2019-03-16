@@ -1,18 +1,13 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
 
 export const PortfolioPostTemplate = ({
   content,
   contentComponent,
-  description,
-  title,
   videoId,
   helmet,
-  fromIndex
 }) => {
   const PostContent = contentComponent || Content
   return (
@@ -21,7 +16,7 @@ export const PortfolioPostTemplate = ({
      <div className="modal is-active">
         <div className="modal-background"></div>
         <div className="modal-content">
-                <div className="embed-video"><iframe className="video-frame" frameborder="0" src={"https://player.vimeo.com/video/"+videoId} allowfullscreen></iframe></div>
+                <div className="embed-video"><iframe title="Portfolio video" className="video-frame" frameborder="0" src={"https://player.vimeo.com/video/"+videoId} allowfullscreen></iframe></div>
                 <PostContent content={content} className="post-content" />  
               </div>
               <button onClick={() => {
