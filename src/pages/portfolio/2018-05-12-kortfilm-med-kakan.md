@@ -5,6 +5,7 @@ date: 2017-04-01T10:00:39.000Z
 description: 'Sound Engineer, Sound Design, Sound Mix'
 image: /img/kortfilm_med_kakan_front2.jpeg
 videoId: '268074382'
+category: sound
 ---
 Kortfilm med Kakan - TV show (SVT)
 
