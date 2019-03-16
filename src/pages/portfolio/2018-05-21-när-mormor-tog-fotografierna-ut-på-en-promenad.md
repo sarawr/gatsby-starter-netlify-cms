@@ -5,6 +5,7 @@ date: 2017-07-06T10:01:18.000Z
 description: 'Music, Sound Design, Sound Mix'
 image: /img/mommo_front.jpeg
 videoId: '268092533'
+category: music
 ---
 När mormor tog fotografierna ut på en promenad - documentary (SVT)
 
