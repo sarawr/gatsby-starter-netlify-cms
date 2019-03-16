@@ -25,7 +25,7 @@ export default class Navbar extends React.Component {
     <div className="container hide-mobile">
       <div className="navbar-brand" >
         <Link to="/" className="navbar-item" >
-          <img src={logo} style={{ height: '120px', paddingRight: '24px' }} />
+          <img src={logo} style={{ height: '120px', paddingRight: '24px' }} alt="Hugo logo" />
         </Link>
       </div>
       <div className="navbar-start">
@@ -40,14 +40,14 @@ export default class Navbar extends React.Component {
         </Link>
       </div>
       <div className="navbar-end">
-                <div className="navbar-item"><a href="https://www.imdb.com/name/nm4323116/?ref_=nv_sr_1"><img src={imdb} style={{ width: '24px' }} /></a></div>
-          <div className="navbar-item"><a href="https://www.linkedin.com/in/hugo-lundgren-50baa6b2/"><img src={linkedin} style={{ width: '24px' }} /></a></div>
+                <div className="navbar-item"><a href="https://www.imdb.com/name/nm4323116/?ref_=nv_sr_1"><img alt="Imdb link" src={imdb} style={{ width: '24px' }} /></a></div>
+          <div className="navbar-item"><a href="https://www.linkedin.com/in/hugo-lundgren-50baa6b2/"><img alt="Linkedin link" src={linkedin} style={{ width: '24px' }} /></a></div>
       </div>
     </div>
 
     <div className="container show-mobile">
       <div onClick={this.handleClick} className="navbar-brand">
-          <strong>Hugo Lundgren</strong><div className="navbar-item"><img src={menu} style={{ width: '24px' }} /></div>
+          <strong>Hugo Lundgren</strong><div className="navbar-item"><img alt="Menu icon" src={menu} style={{ width: '24px' }} /></div>
       </div>
 
       {this.state.toggle ?

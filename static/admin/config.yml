@@ -19,6 +19,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Preview Image", name: "image", widget: "image"}
       - {label: "Video vimeo ID", name: "videoId", widget: "string"}
+      - {label: "Category", name: "category", widget: "select", options: ["music", "sound", "interactive"]}
 
 
   - name: "pages"

@@ -1,15 +1,12 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
+import { graphql } from 'gatsby'
 
 export const PortfolioPostTemplate = ({
   content,
   contentComponent,
-  description,
-  title,
   videoId,
   helmet,
 }) => {
@@ -20,10 +17,12 @@ export const PortfolioPostTemplate = ({
      <div className="modal is-active">
         <div className="modal-background"></div>
         <div className="modal-content">
-                <div className="embed-video"><iframe className="video-frame" frameborder="0" src={"https://player.vimeo.com/video/"+videoId} allowfullscreen></iframe></div>
+                <div className="embed-video"><iframe title="Portfolio video" className="video-frame" frameborder="0" src={"https://player.vimeo.com/video/"+videoId} allowfullscreen></iframe></div>
                 <PostContent content={content} className="post-content" />  
               </div>
-             <Link to="/"><button className="modal-close is-large" aria-label="close"></button></Link>
+              <button onClick={() => {
+                window.location.hash === '#index' ? window.history.back() : window.location = '/'
+              }} className="modal-close is-large" aria-label="close"></button>
             </div>
     </section>
   )
