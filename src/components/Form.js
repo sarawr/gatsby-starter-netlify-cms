@@ -1,5 +1,5 @@
 import React from "react";
-import { navigateTo } from "gatsby-link";
+import { navigate } from "gatsby-link";
 
 function encode(data) {
   return Object.keys(data)
@@ -23,7 +23,7 @@ export default class Form extends React.Component {
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", ...this.state })
     })
-      .then(() => navigateTo('/thanks/'))
+      .then(() => navigate('/thanks/'))
       .catch(error => alert(error))
 
     e.preventDefault();
