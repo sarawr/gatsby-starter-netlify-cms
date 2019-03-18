@@ -5,7 +5,8 @@ date: 2016-11-03T10:33:23.000Z
 description: 'Sound Engineer, Voice Directing'
 image: /img/hogskolan_boras_front2.png
 videoId: '268069435'
-category: sound
+category:
+  - sound
 ---
 Högskolan i Borås - web commercial
 

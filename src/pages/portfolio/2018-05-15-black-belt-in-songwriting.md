@@ -5,7 +5,8 @@ date: 2017-09-06T12:51:51.000Z
 description: Music Production
 image: /img/test.jpg
 videoId: '268067248'
-category: music
+category:
+  - sound
 ---
 Black Belt in Songwriting - E book series (more info at [www.blackbeltsongwriting.com](www.blackbeltsongwriting.com))
 

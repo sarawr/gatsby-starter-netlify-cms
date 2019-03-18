@@ -9,7 +9,6 @@ import './index.sass'
 
 const IndexPage = () => {
   const [category, setCategory ] = useState('')
-  console.log('cat', category == '')
   return (
     <StaticQuery
       query={graphql`
@@ -37,7 +36,7 @@ const IndexPage = () => {
       `}
       render={data => {
         const { edges: posts } = data.allMarkdownRemark
-        
+        //posts.map(p => console.log(p.node.frontmatter.category))
         return <Layout>
           <section className="section">
             <div className="columns">
@@ -48,7 +47,7 @@ const IndexPage = () => {
                 </div>
                 <div className="section">
                   <h2 className="wide-headline">Featured work</h2>
-                  {/*TODO: Change when categories are set.<h2 className="wide-headline">
+                  <h2 className="wide-headline">
                     <span>Categories: </span>
                     <span onClick={() => setCategory('')} className="category-title">All</span>
                     <span> | </span>
@@ -56,12 +55,12 @@ const IndexPage = () => {
                     <span> | </span>
                     <span onClick={() => setCategory('music')} className="category-title">Music</span>
                     <span> | </span>
-                    <span onClick={() => setCategory('interaction')} className="category-title">Interaction </span>
-                  </h2>*/}
+                    <span onClick={() => setCategory('interactive')} className="category-title">Interactive </span>
+                  </h2>
                   <div className="work-page">
                     {posts
                       .filter(post => post.node.frontmatter.templateKey === 'portfolio-post')
-                      .filter(post => category == '' ? true : post.node.frontmatter.category === category)
+                      .filter(post => category === '' ? true : post.node.frontmatter.category.includes(category))
                       .map(({ node: post }) => (
                         <PortfolioBox link={post.fields.slug}
                           key={post.id}

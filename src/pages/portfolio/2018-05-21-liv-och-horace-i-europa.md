@@ -5,7 +5,8 @@ date: 2018-05-21T14:39:21.276Z
 description: 'Sound Engineer, Sound Design, Sound Mix'
 image: /img/front3_2.jpg
 videoId: '271099895'
-category: sound
+category:
+  - sound
 ---
 Liv och Horace i Europa - TV series in six episodes (SVT)
 

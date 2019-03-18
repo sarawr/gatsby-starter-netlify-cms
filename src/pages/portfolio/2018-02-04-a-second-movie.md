@@ -5,7 +5,8 @@ date: 2017-07-07T22:00:00.000Z
 description: 'Sound Design, Sound Engineer, Voice Directing'
 image: /img/svffront.jpg
 videoId: '268070800'
-category: sound
+category:
+  - sound
 ---
 Studieförbundet Vuxenskolan - web film
 
