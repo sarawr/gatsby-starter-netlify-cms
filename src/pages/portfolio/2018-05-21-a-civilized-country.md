@@ -6,7 +6,7 @@ description: Music Mixing
 image: /img/fornt2.jpg
 videoId: '268039942'
 category:
-  - sound
+  - music
 ---
 A Civilized Country - documentary
 
