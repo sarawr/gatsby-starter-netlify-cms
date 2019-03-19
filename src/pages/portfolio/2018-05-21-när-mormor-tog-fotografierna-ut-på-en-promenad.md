@@ -7,6 +7,7 @@ image: /img/mommo_front.jpeg
 videoId: '268092533'
 category:
   - sound
+  - music
 ---
 När mormor tog fotografierna ut på en promenad - documentary (SVT)
 
