@@ -6,7 +6,7 @@ description: 'Instrument sampling & editing, Composer Assistant'
 image: /img/fasanjagarna_front_alt.jpg
 videoId: '268069184'
 category:
-  - sound
+  - music
 ---
 Fasanjägarna - thriller
 
