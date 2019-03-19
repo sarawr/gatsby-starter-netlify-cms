@@ -6,7 +6,7 @@ description: 'Music Production, Composer Assistant'
 image: /img/poster.jpg
 videoId: '268070819'
 category:
-  - sound
+  - music
 ---
 The Fencing Champion - documentary, short
 
