@@ -6,7 +6,7 @@ description: 'Instrument sampling & editing, Composer Assistant'
 image: /img/kvinnan_i_rummet_front_alt.jpg
 videoId: '268069500'
 category:
-  - sound
+  - music
 ---
 Kvinnan i rummet - thriller
 
