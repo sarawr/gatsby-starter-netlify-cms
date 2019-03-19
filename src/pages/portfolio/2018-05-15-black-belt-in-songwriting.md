@@ -6,7 +6,7 @@ description: Music Production
 image: /img/test.jpg
 videoId: '268067248'
 category:
-  - sound
+  - music
 ---
 Black Belt in Songwriting - E book series (more info at [www.blackbeltsongwriting.com](www.blackbeltsongwriting.com))
 
