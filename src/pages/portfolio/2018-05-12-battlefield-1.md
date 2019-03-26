@@ -7,6 +7,7 @@ image: /img/battlefield_front2.jpg
 videoId: '268065004'
 category:
   - music
+  - interactive
 ---
 Battlefield 1 - award winning video game (PC, PS4, Xbox)
 
