@@ -7,6 +7,7 @@ image: /img/test.jpg
 videoId: '268067248'
 category:
   - music
+  - interactive
 ---
 Black Belt in Songwriting - E book series (more info at [www.blackbeltsongwriting.com](www.blackbeltsongwriting.com))
 
