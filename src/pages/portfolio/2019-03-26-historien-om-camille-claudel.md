@@ -14,6 +14,5 @@ _Musical theatre performed at Olympiateatern in Stockholm._
 
 Produced by: TinyTiger Production.\
 Acting and vocals: Camilla Ringquist\
-Piano: Cecilia Löfstrand
-
+Piano: Cecilia Löfstrand\
 Live sound and recording by Hugo.
