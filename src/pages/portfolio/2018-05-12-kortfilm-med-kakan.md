@@ -8,10 +8,12 @@ videoId: '268074382'
 category:
   - sound
 ---
-Kortfilm med Kakan - TV show (SVT)
+**Kortfilm med Kakan** \
+_TV show (SVT)_
 
-Sound engineer on location, Sound design, Sound mix
+Client: ABHL\
+On location sound engineer, Sound design, Sound mix by Hugo.
 
-Client: ABHL
+_Short clip in the player above___
 
-(Short sample in the player above)
+![](/img/svt.png)
