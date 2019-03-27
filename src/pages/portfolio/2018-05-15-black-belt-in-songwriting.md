@@ -9,8 +9,10 @@ category:
   - music
   - interactive
 ---
-Black Belt in Songwriting - E book series (more info at [www.blackbeltsongwriting.com](www.blackbeltsongwriting.com))
+**Black Belt in Songwriting** \
+_E book series_ _(more info at_ [_www.blackbeltsongwriting.com_](www.blackbeltsongwriting.com)_)_
 
+Published by Iphigenia Publishing.\
 Guitar parts performed by Hugo. 
 
 _(Short sample in the player above)_
