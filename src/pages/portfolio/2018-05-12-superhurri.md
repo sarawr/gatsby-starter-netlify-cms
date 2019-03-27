@@ -8,8 +8,11 @@ videoId: '268074162'
 category:
   - music
 ---
-Superhurri - documetary (YLE)
+**Superhurri** \
+_Documetary (YLE)_
 
-Music
+Film music by Hugo.
 
-(Short sample in the player above)
+_(Short sample in the player above)___
+
+![](/img/336-3364093_twitch-emblem-png-yle-logo.png.jpeg)
