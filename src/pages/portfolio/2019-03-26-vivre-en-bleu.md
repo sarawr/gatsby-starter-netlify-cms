@@ -13,6 +13,6 @@ Vivre en Bleu - Musical show performed at Olympiateatern in Stockholm
 
 Produced by: TinyTiger Production\
 Vocals: Camilla Ringquist\
-Piano: Elias Ringquist\
+Piano and vocals: Elias Ringquist\
 \
 Live sound engineer and recording by Hugo.
