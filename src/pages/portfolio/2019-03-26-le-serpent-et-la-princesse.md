@@ -9,6 +9,11 @@ category:
   - sound
   - music
 ---
-Le Serpent et La Princesse - Music theatre written by Camilla Ringquist, performed at Vätmanlands Teater.
+Le Serpent et La Princesse - Musical theatre performed at Västmanlands Teater.
 
-Sound design, live sound engineering by Hugo.
+Produced by: TinyTiger Production\
+Original script and music by Camilla Ringquist.\
+Acting, Vocals and Piano: Camilla Ringquist\
+Acting: Elias Ringquist\
+Double Bass, Accordion: Ola Johansson\
+Sound design, live sound engineering: Hugo.
