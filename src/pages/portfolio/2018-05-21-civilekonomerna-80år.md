@@ -11,6 +11,5 @@ category:
 **Civilekonomerna 80år** \
 _Web commercial_
 
-Sound engineering & Voice directing by Hugo
-
-Client: Online Voices
+Sound engineering & Voice directing by Hugo.\
+Client: Online Voices.
