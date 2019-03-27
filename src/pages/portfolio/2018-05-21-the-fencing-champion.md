@@ -8,8 +8,9 @@ videoId: '268070819'
 category:
   - music
 ---
-The Fencing Champion - documentary, short
+**The Fencing Champion** \
+_Documentary, short_
 
 Assistant to composer Uno Helmersson.
 
-(Trailer in the player above)
+_(Trailer in the player above)_
