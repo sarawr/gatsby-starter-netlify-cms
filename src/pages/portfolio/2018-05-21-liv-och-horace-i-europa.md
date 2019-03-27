@@ -9,10 +9,10 @@ category:
   - sound
 ---
 **Liv och Horace i Europa** \
-_TV series in six episodes (SVT)_
-
-Produced by ABHL.\
-On location sound engineer, Sound Design, Foley and Sound Mix by Hugo.
+_TV series in six episodes (SVT)_\
+__\
+On location sound engineer, Sound Design, Foley and Sound Mix by Hugo.\
+Produced by ABHL.
 
 _Short sample in the player above._
 
