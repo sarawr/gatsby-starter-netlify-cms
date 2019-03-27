@@ -8,8 +8,9 @@ videoId: '268062884'
 category:
   - sound
 ---
-Civilekonomerna 80år - web commercial
+**Civilekonomerna 80år** \
+_Web commercial_
 
-Voice direct & record
+Sound engineering & Voice directing by Hugo
 
 Client: Online Voices
