@@ -8,8 +8,8 @@ videoId: '268244144'
 category:
   - sound
 ---
-SOS Alarm - web films
+**SOS Alarm** \
+_Web film_
 
-Sound mix for one episode
-
-Client: Underton
+Client: Underton\
+Sound mix for one of six episodes by Hugo.
