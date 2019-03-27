@@ -11,8 +11,9 @@ category:
 **Superhurri** \
 _Documetary (YLE)_
 
+Produced by Malakta Films.\
 Film music by Hugo.
 
-_(Short sample in the player above)___
+_Short clip in the player above_
 
 ![](/img/336-3364093_twitch-emblem-png-yle-logo.png.jpeg)
