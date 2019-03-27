@@ -8,8 +8,10 @@ videoId: '268070222'
 category:
   - sound
 ---
-Snille och Smak - En film om Svenska Akademien - documentary (SVT)
+**Snille och Smak - En film om Svenska Akademien** \
+Documentary about the Swedish Academy (SVT)
 
-Sound design, Foley, Sound mix
-
-(Short Sample in the player above)
+Produced by ABHL.\
+Sound design, Foley, Sound mix by Hugo\
+\
+_Short Sample in the player above_
