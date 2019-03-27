@@ -8,10 +8,12 @@ videoId: '268069625'
 category:
   - sound
 ---
-Moms on Fire - award winning short film (Berlinale, Annecy Film Festival, SVT)
+**Moms on Fire** \
+_Award winning short film (Berlinale, Annecy Film Festival, SVT)_
 
-Sound design, Foley, TV mix
+Produced by Alto Film.\
+Sound design, Foley, TV mix by Hugo.
 
-_(Short sample in the player above)_
+_Short clip in the player above_
 
 ![null](/img/priser2.png)
