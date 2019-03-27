@@ -8,8 +8,9 @@ videoId: '268069500'
 category:
   - music
 ---
-Kvinnan i rummet - thriller
+**Kvinnan i rummet** \
+Thriller
 
-Mixdown engineer, Instrument sampling editor
+Music mixdown engineer, Instrument sampling editing by Hugo.
 
-(Trailer in the player above)
+_Trailer in the player above_
