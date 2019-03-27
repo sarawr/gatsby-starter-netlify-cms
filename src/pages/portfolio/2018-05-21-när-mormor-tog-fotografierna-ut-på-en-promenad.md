@@ -16,4 +16,4 @@ Music, Sound design & Sound mix by Hugo
 
 _(Short sample in the player above)___
 
-![](/img/svt.jpg)
+![](/img/svt.png)
