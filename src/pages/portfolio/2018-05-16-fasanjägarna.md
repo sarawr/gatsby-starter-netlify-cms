@@ -8,8 +8,9 @@ videoId: '268069184'
 category:
   - music
 ---
-Fasanjägarna - thriller
+**Fasanjägarna** \
+_Thriller_
 
-Mixdown engineer, Instrument sampling editor.
+Music mixdown engineer, Instrument sampling editing by Hugo.
 
-(Trailer in the player above)
+_Trailer in the player above_
