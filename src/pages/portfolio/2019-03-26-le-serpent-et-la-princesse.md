@@ -12,9 +12,10 @@ category:
 **Le Serpent et La Princesse**\
 _Musical theatre performed at Västmanlands Teater._
 
-Produced by: TinyTiger Production\
+Produced by TinyTiger Production\
 Original script and music by Camilla Ringquist.\
 Vocals and Piano: Camilla Ringquist\
 Actors: Camilla Ringquist, Elias Ringquist\
 Double Bass, Accordion: Ola Johansson\
+\
 Sound design, Live sound engineering: Hugo.
