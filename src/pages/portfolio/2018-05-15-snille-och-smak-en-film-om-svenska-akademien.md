@@ -14,4 +14,6 @@ Documentary about the Swedish Academy (SVT)
 Produced by ABHL.\
 Sound design, Foley, Sound mix by Hugo\
 \
-_Short Sample in the player above_
+_Short Sample in the player above___
+
+![](/img/svt.png)
