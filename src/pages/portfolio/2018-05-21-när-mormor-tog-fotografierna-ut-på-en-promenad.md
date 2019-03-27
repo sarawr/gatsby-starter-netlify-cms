@@ -9,8 +9,9 @@ category:
   - sound
   - music
 ---
-När mormor tog fotografierna ut på en promenad - documentary (SVT)
+**När mormor tog fotografierna ut på en promenad** \
+_Documentary (SVT)_
 
-Music, Sound design & Sound mix
+Music, Sound design & Sound mix by Hugo
 
-(Short sample in the player above)
+_(Short sample in the player above)_
