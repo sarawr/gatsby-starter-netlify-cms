@@ -11,6 +11,6 @@ category:
 **A Civilized Country** \
 _Documentary_
 
-Music mixing, Music mixdown engineering by Hugo.
+Music mixing by Hugo.
 
 _Trailer in the player above_
