@@ -11,6 +11,5 @@ category:
 **A Civilized Country** \
 _Documentary_
 
+Film music by Uno Helmersson.\
 Music mixing by Hugo.
-
-_Trailer in the player above_
