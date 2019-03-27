@@ -11,6 +11,5 @@ category:
 **Studieförbundet Vuxenskolan** \
 _Web film_
 
-Sound design, Sound mix, Sound engineering and Voice directing by Hugo.
-
-Client: Online Voices
+Sound design, Sound mix, Sound engineering and Voice directing by Hugo.\
+Client: Online Voices.
