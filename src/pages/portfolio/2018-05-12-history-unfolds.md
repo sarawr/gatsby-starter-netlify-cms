@@ -8,12 +8,10 @@ videoId: '268069230'
 category:
   - sound
 ---
-**History Unfolds**
+**History Unfolds**\
+_Six web films about an exhibition at the History Museum in Stockholm._
 
-The Swedish History Museum has invited artists to create new artwork inspired by its collections and research. Existing artworks by Swedish and international artists will also be shown in the exhibitions at the museum.
-
+Produced by Alto Film.\
 Sound design & Sound mix.
 
-Film production by Alto Film.
-
-_(Short sample in the player above)_
+_Short sample in the player above._
