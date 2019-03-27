@@ -13,4 +13,4 @@ _Documentary_
 
 Music mixing, Music mixdown engineering by Hugo.
 
-_(Trailer in the player above)_
+_Trailer in the player above_
