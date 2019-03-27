@@ -12,5 +12,3 @@ category:
 _Documentary, short_
 
 Assistant to composer Uno Helmersson.
-
-_(Trailer in the player above)_
