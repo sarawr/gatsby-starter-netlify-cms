@@ -15,5 +15,3 @@ _Award winning video game (PC, PS4, Xbox)_
 Music by Johan Söderqvist and Patrik Andrén.\
 Drum recording - Sound engineering and editing by Hugo.\
 Composer assistant: Hugo.
-
-_Trailer in the player above._
