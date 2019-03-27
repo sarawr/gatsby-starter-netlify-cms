@@ -9,4 +9,7 @@ category:
   - interactive
   - music
 ---
-Adaptive music for an exhibition at Stockholm city museum.
+**I Seriernas Värld**\
+Exhibition at Stockholm City Museum.\
+\
+Music and Technical Installation by Hugo Lundgren, Christoffer Karlsson in collaboration with the Royal College of Music in Stockholm.
