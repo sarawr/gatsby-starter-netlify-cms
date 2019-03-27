@@ -14,6 +14,6 @@ _Documentary (SVT)_
 
 Music, Sound design & Sound mix by Hugo
 
-_(Short sample in the player above)___
+_Short sample in the player above_
 
 ![](/img/svt.png)
