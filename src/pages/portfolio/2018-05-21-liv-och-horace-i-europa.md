@@ -15,6 +15,6 @@ On location sound engineer, Sound Design, Foley and Sound Mix by Hugo
 
 Client: ABHL
 
-_(Short sample in the player above)___
+_Short sample in the player above_
 
 ![](/img/svt.png)
