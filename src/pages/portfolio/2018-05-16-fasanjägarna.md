@@ -11,6 +11,6 @@ category:
 **Fasanjägarna** \
 _Thriller_
 
-Music mixdown engineer, Instrument sampling editing by Hugo.
-
-_Trailer in the player above_
+Film music by: Johan Söderqvist, Patrik Andrén and Uno Helmersson.\
+Instrument sampling editing by Hugo.\
+Composer assistant: Hugo.
