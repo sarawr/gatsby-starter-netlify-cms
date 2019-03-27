@@ -11,5 +11,5 @@ category:
 **SOS Alarm** \
 _Web film_
 
-Client: Underton\
-Sound mix for one of six episodes by Hugo.
+Sound mix for one of six episodes by Hugo.\
+Client: Underton
