@@ -11,6 +11,5 @@ category:
 **Högskolan i Borås** \
 _Six web commercials_
 
-Sound engineer, Voice directing by Hugo.
-
-Client: Online voices
+Sound engineer, Voice directing by Hugo.\
+Client: Online voices.
