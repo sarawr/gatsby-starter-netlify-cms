@@ -9,7 +9,7 @@ category:
   - music
 ---
 **Port of Gävle** \
-Web film
-
-Produced by 100 procent media\
-Music production by Hugo.
+_Web film_\
+\
+Music production by Hugo.\
+Client: 100 procent media.
