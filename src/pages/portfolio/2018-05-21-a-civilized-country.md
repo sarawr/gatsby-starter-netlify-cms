@@ -8,6 +8,9 @@ videoId: '268039942'
 category:
   - music
 ---
-A Civilized Country - documentary
+**A Civilized Country** \
+_Documentary_
 
-Music mixing, Mixdown engineer
+Music mixing, Music mixdown engineering by Hugo.
+
+_(Trailer in the player above)_
