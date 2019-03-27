@@ -9,7 +9,8 @@ category:
   - sound
   - music
 ---
-Historien om Camille Claudel - Musical theatre performed at Olympiateatern in Stockholm.
+**Historien om Camille Claudel**\
+_Musical theatre performed at Olympiateatern in Stockholm._
 
 Produced by: TinyTiger Production.\
 Acting and vocals: Camilla Ringquist\
