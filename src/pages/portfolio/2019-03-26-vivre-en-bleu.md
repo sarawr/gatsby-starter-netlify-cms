@@ -14,6 +14,5 @@ _Musical show performed at Olympiateatern in Stockholm_
 
 Produced by: TinyTiger Production\
 Vocals: Camilla Ringquist\
-Piano and vocals: Elias Ringquist\
-\
+Piano and Vocals: Elias Ringquist\
 Live sound engineer and recording by Hugo.
