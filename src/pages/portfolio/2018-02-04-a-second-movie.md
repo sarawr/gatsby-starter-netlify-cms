@@ -8,8 +8,9 @@ videoId: '268070800'
 category:
   - sound
 ---
-Studieförbundet Vuxenskolan - web film
+**Studieförbundet Vuxenskolan** \
+_Web film_
 
-Sound design, Sound mix, Voice direct & record
+Sound design, Sound mix, Sound engineering and Voice directing by Hugo.
 
 Client: Online Voices
