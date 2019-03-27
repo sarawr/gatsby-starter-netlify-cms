@@ -9,7 +9,7 @@ category:
   - sound
 ---
 **Snille och Smak - En film om Svenska Akademien** \
-Documentary about the Swedish Academy (SVT)
+_Documentary about the Swedish Academy (SVT)_
 
 Produced by ABHL.\
 Sound design, Foley, Sound mix by Hugo\
