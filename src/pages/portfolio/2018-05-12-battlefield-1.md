@@ -9,8 +9,11 @@ category:
   - music
   - interactive
 ---
-Battlefield 1 - award winning video game (PC, PS4, Xbox)
+**Battlefield 1** \
+_Award winning video game (PC, PS4, Xbox)_
 
-Drum recording sound engineer & editor.
+Music by Johan Söderqvist and Patrik Andrén.\
+Drum recording - Sound engineering and editing by Hugo.\
+Composer assistant: Hugo.
 
-(Trailer in the player above)
+_Trailer in the player above._
