@@ -9,7 +9,8 @@ category:
   - sound
   - music
 ---
-Le Serpent et La Princesse - Musical theatre performed at Västmanlands Teater.
+**Le Serpent et La Princesse**\
+_Musical theatre performed at Västmanlands Teater._
 
 Produced by: TinyTiger Production\
 Original script and music by Camilla Ringquist.\
