@@ -8,10 +8,13 @@ videoId: '271099895'
 category:
   - sound
 ---
-Liv och Horace i Europa - TV series in six episodes (SVT)
+**Liv och Horace i Europa** \
+_TV series in six episodes (SVT)_
 
-On location sound engineer, Sound Design, Foley, Sound Mix
+On location sound engineer, Sound Design, Foley and Sound Mix by Hugo
 
 Client: ABHL
 
-_(Short sample in the player above)_
+_(Short sample in the player above)___
+
+![](/img/svt.png)
