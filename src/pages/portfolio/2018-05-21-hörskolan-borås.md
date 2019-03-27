@@ -8,8 +8,9 @@ videoId: '268069435'
 category:
   - sound
 ---
-Högskolan i Borås - web commercial
+**Högskolan i Borås** \
+_Six web commercials_
 
-Voice direct & record
+Sound engineer, Voice directing by Hugo.
 
 Client: Online voices
