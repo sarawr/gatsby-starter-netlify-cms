@@ -14,6 +14,6 @@ _TV show (SVT)_
 Client: ABHL\
 On location sound engineer, Sound design, Sound mix by Hugo.
 
-_Short clip in the player above_
+_Short clip in the player above._
 
 ![](/img/svt.png)
