@@ -9,7 +9,8 @@ category:
   - music
   - sound
 ---
-Vivre en Bleu - Musical show performed at Olympiateatern in Stockholm 
+**Vivre en Bleu**\
+_Musical show performed at Olympiateatern in Stockholm_ 
 
 Produced by: TinyTiger Production\
 Vocals: Camilla Ringquist\
