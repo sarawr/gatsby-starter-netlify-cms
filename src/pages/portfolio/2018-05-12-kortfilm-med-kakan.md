@@ -11,8 +11,8 @@ category:
 **Kortfilm med Kakan** \
 _TV show (SVT)_
 
-Client: ABHL.\
-On location sound engineer, Sound design, Sound mix by Hugo.
+On location sound engineer, Sound design, Sound mix by Hugo.\
+Client: ABHL.
 
 _Short clip in the player above._
 
