@@ -8,8 +8,8 @@ videoId: '268070093'
 category:
   - music
 ---
-Sandviken Pure Power - web film
+**Sandviken Pure Power** \
+_Web film_
 
-Music
-
-Client: 100procent media
+Client: 100 Procent Media\
+Music production by Hugo.
