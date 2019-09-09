@@ -49,13 +49,13 @@ const IndexPage = () => {
                   <h2 className="wide-headline">Featured work</h2>
                   <h2 className="wide-headline">
                     <span>Filter: </span>
-                    <span onClick={() => setCategory('')} className="category-title">All</span>
+                    <span onClick={() => setCategory('')} className={`category-title ${category === '' ? 'active-category' : ''}`}>All</span>
                     <span> | </span>
-                    <span onClick={() => setCategory('sound')} className="category-title">Sound</span>
+                    <span onClick={() => setCategory('sound')} className={`category-title ${category === 'sound' ? 'active-category' : ''}`}>Sound</span>
                     <span> | </span>
-                    <span onClick={() => setCategory('music')} className="category-title">Music</span>
+                    <span onClick={() => setCategory('music')} className={`category-title ${category === 'music' ? 'active-category' : ''}`}>Music</span>
                     <span> | </span>
-                    <span onClick={() => setCategory('interactive')} className="category-title">Interactive </span>
+                    <span onClick={() => setCategory('interactive')} className={`category-title ${category === 'interactive' ? 'active-category' : ''}`}>Interactive </span>
                   </h2>
                   <div className="work-page">
                     {posts
