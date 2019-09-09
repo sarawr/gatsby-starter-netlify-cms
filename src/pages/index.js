@@ -48,7 +48,7 @@ const IndexPage = () => {
                 <div className="section">
                   <h2 className="wide-headline">Featured work</h2>
                   <h2 className="wide-headline">
-                    <span>Categories: </span>
+                    <span>Filter: </span>
                     <span onClick={() => setCategory('')} className="category-title">All</span>
                     <span> | </span>
                     <span onClick={() => setCategory('sound')} className="category-title">Sound</span>
