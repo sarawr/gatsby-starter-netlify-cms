@@ -3,7 +3,7 @@ templateKey: portfolio-post
 title: Sandviken Pure Power 2
 date: 2019-10-07T09:50:26.076Z
 description: 'Music production, Sound Engineer, Voice Casting'
-image: /img/skärmavbild-2019-10-07-kl.-12.00.58.png
+image: /img/sand.png
 videoId: '364741918'
 category:
   - sound
