@@ -1,7 +1,7 @@
 ---
 templateKey: portfolio-post
 title: En Film om Svenska Akademien
-date: 2017-07-05T11:40:53.000Z
+date: 2017-11-09T12:40:53.000Z
 description: 'Sound Design, Foley, Sound Mix'
 image: /img/front_snilleosmak.jpg
 videoId: '268070222'
